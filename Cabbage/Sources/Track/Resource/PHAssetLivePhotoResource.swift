@@ -6,6 +6,7 @@
 //  Copyright © 2019 AlanMoMo. All rights reserved.
 //
 
+import UIKit
 import Photos
 
 public class PHAssetLivePhotoResource: AVAssetTrackResource {
